@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+
 export const Transaction = ({ type, amount, currency }) => {
   return (
     <tr>
